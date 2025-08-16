@@ -4,7 +4,7 @@ Handles basic arithmetic operations (according to post-order notation), referenc
 
 Usage is as follows:
 
-    `python3 SpreadsheetEvaluator.py <inputfile> <outputfile>`
+    python3 SpreadsheetEvaluator.py <inputfile> <outputfile>
 
 
 Input file is a plaintext representation of a single spreadsheet with no more than 500,000 cells (empty or non-empty)
